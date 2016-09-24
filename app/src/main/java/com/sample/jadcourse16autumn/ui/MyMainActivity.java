@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
  *
  * @author Jeksor
  */
-public class MainActivity extends AppCompatActivity {
+public class MyMainActivity extends AppCompatActivity {
 	@Override
 	protected void onCreate(@Nullable Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
