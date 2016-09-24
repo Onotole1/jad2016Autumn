@@ -1,4 +1,4 @@
-package com.sample.jadcourse16autumn;
+package com.sample.jadcourse16autumn.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
