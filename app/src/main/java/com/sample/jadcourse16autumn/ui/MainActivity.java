@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.sample.jadcourse16autumn.R;
 
+
 /**
  * Date: 24.09.2016
  * Time: 15:14

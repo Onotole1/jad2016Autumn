@@ -5,11 +5,11 @@ import android.os.Bundle;
 
 import com.sample.jadcourse16autumn.R;
 
-public class VasilevActivity extends AppCompatActivity {
+public class VladimirovActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_vasilev);
+        setContentView(R.layout.activity_vladimirov);
     }
 }
