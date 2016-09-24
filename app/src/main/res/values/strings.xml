@@ -1,4 +1,5 @@
 <resources>
 	<string name="app_name">Junior Android Developer Course</string>
 	<string name="hello">Hello!</string>
+	<string name="layout_by_marya">Layout by Marya</string>
 </resources>
